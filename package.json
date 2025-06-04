@@ -75,9 +75,6 @@
     "zx": "^8.1.4"
   },
   "pnpm": {
-    "onlyBuiltDependencies": [
-      "sqlite3"
-    ],
     "overrides": {
       "@azure/identity": "^4.3.0",
       "@types/node": "^18.16.16",
